@@ -12,7 +12,7 @@
 			"settings": {
 				"clients": [
 					{
-						"id": "UUID",
+						"id": "8f3a2b1c-9d4e-4f6a-b8c7-1e2d3a4b5c6d",
 						"alterId": 0
 					}
 				]
@@ -20,7 +20,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "VMESS_WSPATH"
+					"path": "/vmess-x7k"
 				}
 			}
 		},
@@ -31,7 +31,7 @@
 			"settings": {
 				"clients": [
 					{
-						"id": "UUID"
+						"id": "8f3a2b1c-9d4e-4f6a-b8c7-1e2d3a4b5c6d"
 					}
 				],
 				"decryption": "none"
@@ -39,7 +39,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "VLESS_WSPATH"
+					"path": "/vless-p9m"
 				}
 			}
 		},
@@ -50,7 +50,7 @@
 			"settings": {
 				"clients": [
 					{
-						"password": "UUID"
+						"password": "8f3a2b1c-9d4e-4f6a-b8c7-1e2d3a4b5c6d"
 					}
 				],
 				"decryption": "none"
@@ -58,7 +58,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "TROJAN_WSPATH"
+					"path": "/trojan-q2r"
 				}
 			}
 		},
@@ -70,7 +70,7 @@
 				"clients": [
 					{
 						"method": "chacha20-ietf-poly1305",
-						"password": "UUID"
+						"password": "8f3a2b1c-9d4e-4f6a-b8c7-1e2d3a4b5c6d"
 					}
 				],
 				"decryption": "none"
@@ -78,7 +78,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "SS_WSPATH"
+					"path": "/ss-k8n"
 				}
 			}
 		}
@@ -125,4 +125,4 @@
 			"8.8.4.4"
 		]
 	}
-}
+			}
